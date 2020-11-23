@@ -1,1 +1,1 @@
-Hello, this is some filler text for the lab in my Computer Systems.
+Hello, this is some filler text for the lab in my Computer Systems. This extra text was added using the nano text editor in the Raspberry Pi command line.
